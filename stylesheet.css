@@ -51,3 +51,16 @@ secondpagetitle {
   background-color: #3882f6;
   border-radius: 10px;
 }
+.info {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+.quotesection {
+  background-color: #e5e7eb;
+}
+.quotetext {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1f2937;
+}
